@@ -1,0 +1,77 @@
+
+C:\Users\Omar\Desktop\logger\logger>MODE CON COLS=180 LINES=100 
+
+C:\Users\Omar\Desktop\logger\logger>rem date formatting 
+
+C:\Users\Omar\Desktop\logger\logger>set hour=12 
+
+C:\Users\Omar\Desktop\logger\logger>if "1" == " " set hour=02 
+
+C:\Users\Omar\Desktop\logger\logger>rem echo hour=12 
+
+C:\Users\Omar\Desktop\logger\logger>set min=55 
+
+C:\Users\Omar\Desktop\logger\logger>if "5" == " " set min=05 
+
+C:\Users\Omar\Desktop\logger\logger>rem echo min=55 
+
+C:\Users\Omar\Desktop\logger\logger>set secs=40 
+
+C:\Users\Omar\Desktop\logger\logger>if "4" == " " set secs=00 
+
+C:\Users\Omar\Desktop\logger\logger>rem echo secs=40 
+
+C:\Users\Omar\Desktop\logger\logger>set year=2019 
+
+C:\Users\Omar\Desktop\logger\logger>rem echo year=2019 
+
+C:\Users\Omar\Desktop\logger\logger>set month=11 
+
+C:\Users\Omar\Desktop\logger\logger>if "1" == " " set month=01 
+
+C:\Users\Omar\Desktop\logger\logger>rem echo month=11 
+
+C:\Users\Omar\Desktop\logger\logger>set day=06 
+
+C:\Users\Omar\Desktop\logger\logger>if "0" == " " set day=06 
+
+C:\Users\Omar\Desktop\logger\logger>rem echo day=06 
+
+C:\Users\Omar\Desktop\logger\logger>set dateformat=2019-11-06T12:55:40 
+
+C:\Users\Omar\Desktop\logger\logger>rem echo 2019-11-06T12:55:40 
+
+C:\Users\Omar\Desktop\logger\logger>rem check if token is valid 
+
+C:\Users\Omar\Desktop\logger\logger>set /p token= 0<token.txt 
+
+C:\Users\Omar\Desktop\logger\logger>echo(abcd  | findstr /r "[^0-9a-zA-Z]"   1>nul  && (
+rem echo Invalid token : please check token.txt file  
+ rem add to log file   
+ echo 2019-11-06T12:55:40TokenError : non alphanumeric symbol found during logout  1>>log.txt  
+ goto exitloop 
+) 
+
+C:\Users\Omar\Desktop\logger\logger>set loopcount=5 
+
+C:\Users\Omar\Desktop\logger\logger>logout.bat | findstr /C:"UserConnectionSuccess"  1>nul 2>&1 
+
+C:\Users\Omar\Desktop\logger\logger>if not errorlevel 1 (
+echo Exiting loop success  
+ set resturl=https://huissieralexandre.be/  
+ rem echo   
+ for /F "tokens=*" %a in (connection.txt) do (
+echo   
+ curl  
+)  
+ del connection.txt  
+ del temp.txt  
+ goto exitloop  
+)  else (echo 2019-11-06T12:55:40ConnectionError : failed attempt to write retrying at lougout  1>>log.txt ) 
+Exiting loop success
+
+C:\Users\Omar\Desktop\logger\logger>(
+echo   
+ curl  
+) 
+ECHO is on.

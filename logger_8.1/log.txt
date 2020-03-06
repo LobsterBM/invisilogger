@@ -1,0 +1,293 @@
+2019-06-18T21:27:45ConnectionError : failed attempt to write retrying at lougout 
+2019-06-18T21:27:45ConnectionError : failed attempt to write retrying at lougout 
+2019-06-18T21:27:45ConnectionError : failed attempt to write retrying at lougout 
+2019-06-18T21:27:45ConnectionError : failed attempt to write retrying at lougout 
+2019-06-18T21:27:45ConnectionError : failed attempt to write retrying at lougout 
+2019-06-18T21:27:45 ValidationError : Could not validate connection during login 
+2019-06-18T21:28:58ConnectionError : failed attempt to write retrying at lougout 
+2019-06-18T21:28:58ConnectionError : failed attempt to write retrying at lougout 
+2019-06-18T21:28:58ConnectionError : failed attempt to write retrying at lougout 
+2019-06-18T21:28:58ConnectionError : failed attempt to write retrying at lougout 
+2019-06-18T21:28:58ConnectionError : failed attempt to write retrying at lougout 
+2019-06-18T21:28:58 ValidationError : Could not validate connection during lougout  
+2019-06-18T21:29:19ConnectionError : failed attempt to write retrying at lougout 
+2019-06-18T21:29:19ConnectionError : failed attempt to write retrying at lougout 
+2019-06-18T21:29:19ConnectionError : failed attempt to write retrying at lougout 
+2019-06-18T21:29:19ConnectionError : failed attempt to write retrying at lougout 
+2019-06-18T21:29:19ConnectionError : failed attempt to write retrying at lougout 
+2019-06-18T21:29:19 ValidationError : Could not validate connection during lougout  
+2019-06-18T21:29:40ConnectionError : failed attempt to write retrying at lougout 
+2019-06-18T21:29:40ConnectionError : failed attempt to write retrying at lougout 
+2019-06-18T21:29:40ConnectionError : failed attempt to write retrying at lougout 
+2019-06-18T21:29:40ConnectionError : failed attempt to write retrying at lougout 
+2019-06-18T21:29:40ConnectionError : failed attempt to write retrying at lougout 
+2019-06-18T21:29:40 ValidationError : Could not validate connection during lougout  
+2019-06-18T21:29:49ConnectionError : failed attempt to write retrying at lougout 
+2019-06-18T21:29:49ConnectionError : failed attempt to write retrying at lougout 
+2019-06-18T21:29:49ConnectionError : failed attempt to write retrying at lougout 
+2019-06-18T21:29:49ConnectionError : failed attempt to write retrying at lougout 
+2019-06-18T21:29:49ConnectionError : failed attempt to write retrying at lougout 
+2019-06-18T21:29:49 ValidationError : Could not validate connection during lougout  
+2019-06-18T21:34:32ConnectionError : failed attempt to write retrying at lougout 
+2019-06-18T21:34:32ConnectionError : failed attempt to write retrying at lougout 
+2019-06-18T21:34:32ConnectionError : failed attempt to write retrying at lougout 
+2019-06-18T21:34:32ConnectionError : failed attempt to write retrying at lougout 
+2019-06-18T21:34:32ConnectionError : failed attempt to write retrying at lougout 
+2019-06-18T21:34:32 ValidationError : Could not validate connection during lougout  
+2019-06-18T21:34:42ConnectionError : failed attempt to write retrying at lougout 
+2019-06-18T21:34:42ConnectionError : failed attempt to write retrying at lougout 
+2019-06-18T21:34:42ConnectionError : failed attempt to write retrying at lougout 
+2019-06-18T21:34:42ConnectionError : failed attempt to write retrying at lougout 
+2019-06-18T21:34:42ConnectionError : failed attempt to write retrying at lougout 
+2019-06-18T21:34:42 ValidationError : Could not validate connection during lougout  
+2019-06-18T21:36:27ConnectionError : failed attempt to write retrying at lougout 
+2019-06-18T21:36:27ConnectionError : failed attempt to write retrying at lougout 
+2019-06-18T21:36:27ConnectionError : failed attempt to write retrying at lougout 
+2019-06-18T21:36:27ConnectionError : failed attempt to write retrying at lougout 
+2019-06-18T21:36:27ConnectionError : failed attempt to write retrying at lougout 
+2019-06-18T21:36:27 ValidationError : Could not validate connection during lougout  
+2019-06-18T21:36:36ConnectionError : failed attempt to write retrying at lougout 
+2019-06-18T21:36:36ConnectionError : failed attempt to write retrying at lougout 
+2019-06-18T21:36:36ConnectionError : failed attempt to write retrying at lougout 
+2019-06-18T21:36:36ConnectionError : failed attempt to write retrying at lougout 
+2019-06-18T21:36:36ConnectionError : failed attempt to write retrying at lougout 
+2019-06-18T21:36:36 ValidationError : Could not validate connection during lougout  
+2019-06-18T21:37:21ConnectionError : failed attempt to write retrying at lougout 
+2019-06-18T21:37:21ConnectionError : failed attempt to write retrying at lougout 
+2019-06-18T21:38:07ConnectionError : failed attempt to write retrying at lougout 
+2019-06-18T21:38:07ConnectionError : failed attempt to write retrying at lougout 
+2019-06-18T21:38:07ConnectionError : failed attempt to write retrying at lougout 
+2019-06-18T21:38:07ConnectionError : failed attempt to write retrying at lougout 
+2019-06-18T21:38:07ConnectionError : failed attempt to write retrying at lougout 
+2019-06-18T21:38:07 ValidationError : Could not validate connection during lougout  
+2019-06-18T21:38:16ConnectionError : failed attempt to write retrying at lougout 
+2019-06-18T21:38:16ConnectionError : failed attempt to write retrying at lougout 
+2019-06-18T21:38:16ConnectionError : failed attempt to write retrying at lougout 
+2019-06-18T21:38:16ConnectionError : failed attempt to write retrying at lougout 
+2019-06-18T21:38:16ConnectionError : failed attempt to write retrying at lougout 
+2019-06-18T21:38:16 ValidationError : Could not validate connection during lougout  
+2019-06-18T21:38:32ConnectionError : failed attempt to write retrying at lougout 
+2019-06-18T21:38:32ConnectionError : failed attempt to write retrying at lougout 
+2019-06-18T21:38:32ConnectionError : failed attempt to write retrying at lougout 
+2019-06-18T21:38:32ConnectionError : failed attempt to write retrying at lougout 
+2019-06-18T21:38:32ConnectionError : failed attempt to write retrying at lougout 
+2019-06-18T21:38:32 ValidationError : Could not validate connection during lougout  
+2019-06-18T21:38:39ConnectionError : failed attempt to write retrying at lougout 
+2019-06-18T21:38:39ConnectionError : failed attempt to write retrying at lougout 
+2019-06-18T21:38:39ConnectionError : failed attempt to write retrying at lougout 
+2019-06-18T21:38:39ConnectionError : failed attempt to write retrying at lougout 
+2019-06-18T21:38:39ConnectionError : failed attempt to write retrying at lougout 
+2019-06-18T21:38:39 ValidationError : Could not validate connection during lougout  
+2019-06-18T21:39:03ConnectionError : failed attempt to write retrying at lougout 
+2019-06-18T21:39:03ConnectionError : failed attempt to write retrying at lougout 
+2019-06-18T21:39:03ConnectionError : failed attempt to write retrying at lougout 
+2019-06-18T21:39:03ConnectionError : failed attempt to write retrying at lougout 
+2019-06-18T21:39:03ConnectionError : failed attempt to write retrying at lougout 
+2019-06-18T21:39:03 ValidationError : Could not validate connection during lougout  
+2019-06-18T21:39:45ConnectionError : failed attempt to write retrying at lougout 
+2019-06-18T21:39:45ConnectionError : failed attempt to write retrying at lougout 
+2019-06-18T21:39:45ConnectionError : failed attempt to write retrying at lougout 
+2019-06-18T21:39:45ConnectionError : failed attempt to write retrying at lougout 
+2019-06-18T21:39:45ConnectionError : failed attempt to write retrying at lougout 
+2019-06-18T21:39:45 ValidationError : Could not validate connection during lougout  
+2019-06-18T21:40:32RestorationError : failed attempt to write restoration 
+2019-06-18T21:40:32ConnectionError : failed attempt to write retrying at lougout 
+2019-06-18T21:40:32ConnectionError : failed attempt to write retrying at lougout 
+2019-06-18T21:40:32ConnectionError : failed attempt to write retrying at lougout 
+2019-06-18T21:40:32ConnectionError : failed attempt to write retrying at lougout 
+2019-06-18T21:40:45RestorationError : failed attempt to write restoration 
+2019-06-18T21:40:45ConnectionError : failed attempt to write retrying at lougout 
+2019-06-18T21:40:45ConnectionError : failed attempt to write retrying at lougout 
+2019-06-18T21:41:40RestorationError : failed attempt to write restoration 
+2019-06-18T21:41:40ConnectionError : failed attempt to write retrying at lougout 
+2019-06-18T21:41:48RestorationError : failed attempt to write restoration 
+2019-06-18T21:41:48ConnectionError : failed attempt to write retrying at lougout 
+2019-06-18T21:41:48ConnectionError : failed attempt to write retrying at lougout 
+2019-06-18T21:41:48ConnectionError : failed attempt to write retrying at lougout 
+2019-06-18T21:41:48ConnectionError : failed attempt to write retrying at lougout 
+2019-06-18T21:41:48ConnectionError : failed attempt to write retrying at lougout 
+2019-06-18T21:41:48 ValidationError : Could not validate connection during lougout  
+2019-06-18T21:42:11ConnectionError : failed attempt to write retrying at lougout 
+2019-06-18T21:42:11ConnectionError : failed attempt to write retrying at lougout 
+2019-06-18T21:42:11ConnectionError : failed attempt to write retrying at lougout 
+2019-06-18T21:42:11ConnectionError : failed attempt to write retrying at lougout 
+2019-06-18T21:42:11ConnectionError : failed attempt to write retrying at lougout 
+2019-06-18T21:42:11 ValidationError : Could not validate connection during lougout  
+2019-06-18T21:44:39ConnectionError : failed attempt to write retrying at lougout 
+2019-06-18T21:44:39ConnectionError : failed attempt to write retrying at lougout 
+2019-06-18T21:44:39ConnectionError : failed attempt to write retrying at lougout 
+2019-06-18T21:44:39ConnectionError : failed attempt to write retrying at lougout 
+2019-06-18T21:44:39ConnectionError : failed attempt to write retrying at lougout 
+2019-06-18T21:44:39 ValidationError : Could not validate connection during lougout  
+2019-06-18T21:49:11ConnectionError : failed attempt to write retrying at lougout 
+2019-06-18T21:49:11ConnectionError : failed attempt to write retrying at lougout 
+2019-06-18T21:49:11ConnectionError : failed attempt to write retrying at lougout 
+2019-06-18T21:49:11ConnectionError : failed attempt to write retrying at lougout 
+2019-06-18T21:49:11ConnectionError : failed attempt to write retrying at lougout 
+2019-06-18T21:49:11 ValidationError : Could not validate connection during lougout  
+2019-06-18T21:49:30ConnectionError : failed attempt to write retrying at lougout 
+2019-06-18T21:49:30ConnectionError : failed attempt to write retrying at lougout 
+2019-06-18T21:49:30ConnectionError : failed attempt to write retrying at lougout 
+2019-06-18T21:49:30ConnectionError : failed attempt to write retrying at lougout 
+2019-06-18T21:49:30ConnectionError : failed attempt to write retrying at lougout 
+2019-06-18T21:49:30 ValidationError : Could not validate connection during lougout  
+2019-06-18T21:52:12RestorationError : failed attempt to write restoration 
+2019-06-18T21:52:12ConnectionError : failed attempt to write retrying at lougout 
+2019-06-18T21:52:12ConnectionError : failed attempt to write retrying at lougout 
+2019-06-18T21:52:12ConnectionError : failed attempt to write retrying at lougout 
+2019-06-18T22:04:48ConnectionError : failed attempt to write retrying at lougout 
+2019-06-18T22:04:48ConnectionError : failed attempt to write retrying at lougout 
+2019-06-18T22:04:48ConnectionError : failed attempt to write retrying at lougout 
+2019-06-18T22:07:01ConnectionError : failed attempt to write retrying at lougout 
+2019-06-18T22:07:11ConnectionError : failed attempt to write retrying at lougout 
+2019-06-18T22:07:11ConnectionError : failed attempt to write retrying at lougout 
+2019-06-18T22:07:11ConnectionError : failed attempt to write retrying at lougout 
+2019-06-18T22:07:11ConnectionError : failed attempt to write retrying at lougout 
+2019-06-18T22:07:11ConnectionError : failed attempt to write retrying at lougout 
+2019-06-18T22:07:11 ValidationError : Could not validate connection during lougout  
+2019-06-18T22:07:20ConnectionError : failed attempt to write retrying at lougout 
+2019-06-18T22:07:20ConnectionError : failed attempt to write retrying at lougout 
+2019-06-18T22:07:20ConnectionError : failed attempt to write retrying at lougout 
+2019-06-18T22:07:20ConnectionError : failed attempt to write retrying at lougout 
+2019-06-18T22:07:20ConnectionError : failed attempt to write retrying at lougout 
+2019-06-18T22:07:20 ValidationError : Could not validate connection during lougout  
+2019-06-18T22:07:34ConnectionError : failed attempt to write retrying at lougout 
+2019-06-18T22:07:34ConnectionError : failed attempt to write retrying at lougout 
+2019-06-18T22:07:34ConnectionError : failed attempt to write retrying at lougout 
+2019-06-18T22:07:34ConnectionError : failed attempt to write retrying at lougout 
+2019-06-18T22:07:34ConnectionError : failed attempt to write retrying at lougout 
+2019-06-18T22:07:34 ValidationError : Could not validate connection during login 
+2019-06-18T22:08:24ConnectionError : failed attempt to write retrying at lougout 
+2019-06-18T22:08:24ConnectionError : failed attempt to write retrying at lougout 
+2019-06-18T22:08:24ConnectionError : failed attempt to write retrying at lougout 
+2019-06-18T22:08:24ConnectionError : failed attempt to write retrying at lougout 
+2019-06-18T22:08:24ConnectionError : failed attempt to write retrying at lougout 
+2019-06-18T22:08:24 ValidationError : Could not validate connection during lougout  
+2019-06-18T22:08:31ConnectionError : failed attempt to write retrying at lougout 
+2019-06-18T22:08:31ConnectionError : failed attempt to write retrying at lougout 
+2019-06-18T22:08:31ConnectionError : failed attempt to write retrying at lougout 
+2019-06-18T22:08:31ConnectionError : failed attempt to write retrying at lougout 
+2019-06-18T22:08:31ConnectionError : failed attempt to write retrying at lougout 
+2019-06-18T22:08:31 ValidationError : Could not validate connection during lougout  
+2019-06-18T22:08:38ConnectionError : failed attempt to write retrying at lougout 
+2019-06-18T22:08:38ConnectionError : failed attempt to write retrying at lougout 
+2019-06-18T22:08:38ConnectionError : failed attempt to write retrying at lougout 
+2019-06-18T22:08:38ConnectionError : failed attempt to write retrying at lougout 
+2019-06-18T22:08:38ConnectionError : failed attempt to write retrying at lougout 
+2019-06-18T22:08:38 ValidationError : Could not validate connection during lougout  
+2019-06-18T22:09:05ConnectionError : failed attempt to write retrying at lougout 
+2019-06-18T22:09:05ConnectionError : failed attempt to write retrying at lougout 
+2019-06-18T22:09:05ConnectionError : failed attempt to write retrying at lougout 
+2019-06-18T22:09:05ConnectionError : failed attempt to write retrying at lougout 
+2019-06-18T22:09:05ConnectionError : failed attempt to write retrying at lougout 
+2019-06-18T22:09:05 ValidationError : Could not validate connection during login 
+2019-06-18T22:09:52ConnectionError : failed attempt to write retrying at lougout 
+2019-06-18T22:09:52ConnectionError : failed attempt to write retrying at lougout 
+2019-06-18T22:12:26ConnectionError : failed attempt to write retrying at lougout 
+2019-06-18T22:12:26ConnectionError : failed attempt to write retrying at lougout 
+2019-06-18T22:12:26ConnectionError : failed attempt to write retrying at lougout 
+2019-10-26T19:37:28ConnectionError : failed attempt to write retrying at lougout 
+2019-10-26T19:37:28ConnectionError : failed attempt to write retrying at lougout 
+2019-10-26T19:37:28ConnectionError : failed attempt to write retrying at lougout 
+2019-10-26T19:37:28ConnectionError : failed attempt to write retrying at lougout 
+2019-10-26T19:37:28ConnectionError : failed attempt to write retrying at lougout 
+2019-10-26T19:37:28 ValidationError : Could not validate connection during login 
+2019-10-26T19:39:02ConnectionError : failed attempt to write retrying at lougout 
+2019-10-26T19:39:02ConnectionError : failed attempt to write retrying at lougout 
+2019-10-26T19:39:02ConnectionError : failed attempt to write retrying at lougout 
+2019-10-26T19:39:02ConnectionError : failed attempt to write retrying at lougout 
+2019-10-26T19:39:02ConnectionError : failed attempt to write retrying at lougout 
+2019-10-26T19:39:02 ValidationError : Could not validate connection during login 
+2019-10-26T20:35:08ConnectionError : failed attempt to write retrying at lougout 
+2019-10-26T20:35:08ConnectionError : failed attempt to write retrying at lougout 
+2019-10-26T20:35:08ConnectionError : failed attempt to write retrying at lougout 
+2019-10-26T20:35:08ConnectionError : failed attempt to write retrying at lougout 
+2019-10-26T20:35:08ConnectionError : failed attempt to write retrying at lougout 
+2019-10-26T20:35:08 ValidationError : Could not validate connection during lougout  
+2019-10-26T20:36:17ConnectionError : failed attempt to write retrying at lougout 
+2019-10-26T20:36:17ConnectionError : failed attempt to write retrying at lougout 
+2019-10-26T20:36:17ConnectionError : failed attempt to write retrying at lougout 
+2019-10-26T20:36:17ConnectionError : failed attempt to write retrying at lougout 
+2019-10-26T20:36:17ConnectionError : failed attempt to write retrying at lougout 
+2019-10-26T20:36:17 ValidationError : Could not validate connection during lougout  
+2019-10-26T20:36:38ConnectionError : failed attempt to write retrying at lougout 
+2019-10-26T20:37:11ConnectionError : failed attempt to write retrying at lougout 
+2019-10-26T20:37:11ConnectionError : failed attempt to write retrying at lougout 
+2019-10-26T20:37:11ConnectionError : failed attempt to write retrying at lougout 
+2019-10-26T20:37:11ConnectionError : failed attempt to write retrying at lougout 
+2019-10-26T20:37:11ConnectionError : failed attempt to write retrying at lougout 
+2019-10-26T20:37:11 ValidationError : Could not validate connection during lougout  
+2019-10-26T20:38:00ConnectionError : failed attempt to write retrying at lougout 
+2019-10-26T20:38:00ConnectionError : failed attempt to write retrying at lougout 
+2019-10-26T20:38:00ConnectionError : failed attempt to write retrying at lougout 
+2019-10-26T20:38:00ConnectionError : failed attempt to write retrying at lougout 
+2019-10-26T20:38:00ConnectionError : failed attempt to write retrying at lougout 
+2019-10-26T20:38:00 ValidationError : Could not validate connection during lougout  
+2019-10-26T20:39:14ConnectionError : failed attempt to write retrying at lougout 
+2019-10-26T20:39:14ConnectionError : failed attempt to write retrying at lougout 
+2019-10-26T20:39:14ConnectionError : failed attempt to write retrying at lougout 
+2019-10-26T20:39:14ConnectionError : failed attempt to write retrying at lougout 
+2019-10-26T20:39:14ConnectionError : failed attempt to write retrying at lougout 
+2019-10-26T20:39:14 ValidationError : Could not validate connection during lougout  
+2019-11-06T12:22:10ConnectionError : failed attempt to write retrying at lougout 
+2019-11-06T12:22:10ConnectionError : failed attempt to write retrying at lougout 
+2019-11-06T12:22:10ConnectionError : failed attempt to write retrying at lougout 
+2019-11-06T12:22:10ConnectionError : failed attempt to write retrying at lougout 
+2019-11-06T12:22:10ConnectionError : failed attempt to write retrying at lougout 
+2019-11-06T12:22:10 ValidationError : Could not validate connection during login 
+2019-11-06T12:24:57ConnectionError : failed attempt to write retrying at lougout 
+2019-11-06T12:24:57ConnectionError : failed attempt to write retrying at lougout 
+2019-11-06T12:24:57ConnectionError : failed attempt to write retrying at lougout 
+2019-11-06T12:24:57ConnectionError : failed attempt to write retrying at lougout 
+2019-11-06T12:24:57ConnectionError : failed attempt to write retrying at lougout 
+2019-11-06T12:24:57 ValidationError : Could not validate connection during login 
+2019-12-13T14:43:57ConnectionError : failed attempt to write  
+2019-12-13T14:43:57ConnectionError : failed attempt to write  
+2019-12-13T14:43:57ConnectionError : failed attempt to write  
+2019-12-13T14:43:57ConnectionError : failed attempt to write  
+2019-12-13T14:43:57ConnectionError : failed attempt to write  
+2019-12-13T14:43:57 ValidationError : Could not validate connection  
+2019-12-13T14:45:57ConnectionError : failed attempt to write  
+2019-12-13T14:45:57ConnectionError : failed attempt to write  
+2019-12-13T14:45:57ConnectionError : failed attempt to write  
+2019-12-13T14:45:57ConnectionError : failed attempt to write  
+2019-12-13T14:45:57ConnectionError : failed attempt to write  
+2019-12-13T14:45:57 ValidationError : Could not validate connection  
+2019-12-13T14:47:57ConnectionError : failed attempt to write  
+2019-12-13T14:47:57ConnectionError : failed attempt to write  
+2019-12-13T14:47:57ConnectionError : failed attempt to write  
+2019-12-13T14:47:57ConnectionError : failed attempt to write  
+2019-12-13T14:47:57ConnectionError : failed attempt to write  
+2019-12-13T14:47:57 ValidationError : Could not validate connection  
+2019-12-13T14:49:57ConnectionError : failed attempt to write  
+2019-12-13T14:49:57ConnectionError : failed attempt to write  
+2019-12-13T14:49:57ConnectionError : failed attempt to write  
+2019-12-13T14:49:57ConnectionError : failed attempt to write  
+2019-12-13T14:49:57ConnectionError : failed attempt to write  
+2019-12-13T14:49:57 ValidationError : Could not validate connection  
+2019-12-13T14:51:57ConnectionError : failed attempt to write  
+2019-12-13T14:51:57ConnectionError : failed attempt to write  
+2019-12-13T14:51:57ConnectionError : failed attempt to write  
+2019-12-13T14:51:57ConnectionError : failed attempt to write  
+2019-12-13T14:51:57ConnectionError : failed attempt to write  
+2019-12-13T14:51:57 ValidationError : Could not validate connection  
+2019-12-13T14:53:57ConnectionError : failed attempt to write  
+2019-12-13T14:53:57ConnectionError : failed attempt to write  
+2019-12-13T14:53:57ConnectionError : failed attempt to write  
+2019-12-13T14:53:57ConnectionError : failed attempt to write  
+2019-12-13T14:53:57ConnectionError : failed attempt to write  
+2019-12-13T14:53:57 ValidationError : Could not validate connection  
+2019-12-13T14:55:57ConnectionError : failed attempt to write  
+2019-12-13T14:55:57ConnectionError : failed attempt to write  
+2019-12-13T14:55:57ConnectionError : failed attempt to write  
+2019-12-13T14:55:57ConnectionError : failed attempt to write  
+2019-12-13T14:55:57ConnectionError : failed attempt to write  
+2019-12-13T14:55:57 ValidationError : Could not validate connection  
+2019-12-19T20:30:10ConnectionError : failed attempt to write  
+2019-12-20T17:53:23ConnectionError : failed attempt to write  
+2019-12-19T20:30:10ConnectionError : failed attempt to write  
+2019-12-19T20:30:10ConnectionError : failed attempt to write  
+2019-12-20T17:53:23ConnectionError : failed attempt to write  
+2019-12-20T17:53:23ConnectionError : failed attempt to write  
+2019-12-20T17:53:23ConnectionError : failed attempt to write  
+2019-12-19T20:30:10ConnectionError : failed attempt to write  
