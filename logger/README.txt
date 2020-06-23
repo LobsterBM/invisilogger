@@ -1,3 +1,11 @@
+Pre installation:
+1: right click edit on mainLogin.bat
+2: edit line circa 53
+	tasklist /FI "IMAGENAME eq ProgramName.exe" 2>NUL | find /I /N "ProgramName.exe">NUL
+   and replace ProgramName.exe with the file you want to be open for verification
+3: save and exit, continue with normal installation process 
+
+installation :
 1: Open task scheduler & click on "Create task"
 2: Add Name & desciption (recommended , will be useful in case of errors) 
 3: click on "Run with highest privileges" & check the "hidden" box on the bottom left
