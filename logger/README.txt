@@ -1,8 +1,9 @@
 Pre installation:
 1: right click edit on mainLogin.bat
 2: edit line circa 53
-	tasklist /FI "IMAGENAME eq ProgramName.exe" 2>NUL | find /I /N "ProgramName.exe">NUL
+	tasklist | find "ProgramName.exe">NUL
    and replace ProgramName.exe with the file you want to be open for verification
+   using a dot .  as a placeholder character (if version changes ex: dio-25.exe vs dio-26.exe would be dio-...exe)
 3: save and exit, continue with normal installation process 
 
 installation :

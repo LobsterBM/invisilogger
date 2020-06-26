@@ -50,7 +50,7 @@ echo(%token%|findstr /r "[^0-9a-zA-Z]" >nul && (
 
 set loopcount=5
 
-tasklist /FI "IMAGENAME eq Chrome.exe" 2>NUL | find /I /N "Chrome.exe">NUL
+tasklist | findstr  "chro...exe">NUL
 if not "%ERRORLEVEL%"=="0" (
   goto exitloop
 )
