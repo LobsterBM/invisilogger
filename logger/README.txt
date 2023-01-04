@@ -33,3 +33,12 @@ C:\Users\username\Desktop\logger\logger\
 
 11: in the 3conditions tabs " deselect the "Run only when computer is on AC power" in case the PC is a laptop
 12: restart computer 
+
+
+Notation: 
+	- "wscript.exe" => with doublequotes	
+	- "PATH\invisible.vbs" => with doublequotes
+	- "PATH\mainLogIn.bat" => with doublequotes
+	- PATH => NO doublequotes
+Reminder: 
+	PATH = $USERPATH/Documents/POINTEUSE - NE PAS DEPLACER/logger (FIRST subfolder)
